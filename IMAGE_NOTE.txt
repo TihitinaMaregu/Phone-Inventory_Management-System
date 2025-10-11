@@ -1,0 +1,13 @@
+NOTE: user-login-305.png Image File
+=====================================
+
+The application references an image file named "user-login-305.png" for the login form GUI.
+
+To add the image:
+1. Place a PNG image file named "user-login-305.png" in the same directory as the Java files
+2. Recommended size: 305x305 pixels or similar square dimensions
+3. The image should represent a user login icon or phone inventory theme
+
+If the image is not present, the application will display a phone emoji (📱) as a fallback.
+
+You can use any user login icon or create a custom image for your application.
